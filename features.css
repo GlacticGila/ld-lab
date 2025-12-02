@@ -1,0 +1,70 @@
+@font-face {
+	font-family: "Determination";
+	src: url(Fonts/DTM-Mono.otf);
+}
+
+
+html
+
+
+{background-image: url('Images/TV-Time-BG.png');background-color: #2a4b7c;}
+
+ nav {background-color: #BCABCD;
+    width: 8%}
+
+head {display: flex;
+    color: #2a4b7c;}
+
+h1  {
+   font-family: 'Determination';
+    color: #E3CCFB;
+     -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #7D708A;
+  display: block;
+  margin: auto;
+  width: 30%;
+}
+
+h1  {text-align: center;
+   font-family: 'Determination';
+    color: #4DCC8E;
+     -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #38705E;
+  display: block;
+  margin: auto;
+  width: 30%;
+}
+
+h1 img {
+	margin: 0 30px;
+	position: relative;
+	top: 30px;
+    display: flex; justify-content: center;
+align-items: flex-start;
+}
+
+h2 {
+  text-align: center;
+  margin: auto;
+width: 30%;
+   font-family: 'Determination';
+    color: #E3CCFB;
+   }
+
+h3 {  text-align: center;
+  margin: auto;
+width: 30%;
+   font-family: 'Determination';
+    color: #E3CCFB;
+    }
+    
+    
+    p {text-align: center;
+     font-family: 'Determination';
+       background-color: #000000;
+        color: #E3CCFB;
+        width: 90%; }
+
+      .imageblock{margin: 0 auto;
+      width: 60%;}
+      .imageblock img {width: 100%;}

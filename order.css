@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "Determination";
+	src: url(Fonts/DTM-Mono.otf);
+}
+
+html
+
+{background-image: url('Images/TV-Time-BG.png');background-color: #2a4b7c;}
+
+ nav {background-color: #BCABCD;
+    width: 13%}
+
+head {display: flex;
+    color: #2a4b7c;}
+
+h1  {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #E3CCFB;
+     -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #7D708A;
+  display: block;
+  margin: auto;
+  width: 15%;
+}
+
+form {background-color: #BCABCD;
+    -webkit-text-fill-color: #2D2D33;
+width: 30%;}
