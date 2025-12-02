@@ -1,16 +1,16 @@
 @font-face {
 	font-family: "Determination";
-	src: url(Fonts/DTM-Mono.otf);
+	src: url(DTM-Mono.otf);
 }
 
 @font-face {
 	font-family: "d-termination";
-	src: url(Fonts/DTM-Sans.otf);
+	src: url(DTM-Sans.otf);
 }
 
 html
 
-{background-image: url('Images/TV-Time-BG.png');background-color: #2a4b7c;}
+{background-image: url('TV-Time-BG.png');background-color: #2a4b7c;}
 
 h1 { font-family: 'd-termination';
     color: #E3CCFB;
